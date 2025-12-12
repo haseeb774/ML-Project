@@ -3,5 +3,8 @@ numpy
 matplotlib
 seaborn
 keras
-
--e .
+dill
+catboost
+xgboost
+lightgbm
+# -e .
